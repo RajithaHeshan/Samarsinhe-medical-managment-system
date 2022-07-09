@@ -1,0 +1,8 @@
+admin user = admin
+admin email = Test@12345
+
+patient  = hashan@1gmail.com
+pass = 123hashan
+
+doctor = ananda@gmail.com
+pass =123ananda
